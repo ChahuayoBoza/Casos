@@ -1,0 +1,36 @@
+E:\My\Casos-\Casos\Casos\bin\Debug\netcoreapp3.1\Casos.exe
+E:\My\Casos-\Casos\Casos\bin\Debug\netcoreapp3.1\Casos.deps.json
+E:\My\Casos-\Casos\Casos\bin\Debug\netcoreapp3.1\Casos.runtimeconfig.json
+E:\My\Casos-\Casos\Casos\bin\Debug\netcoreapp3.1\Casos.runtimeconfig.dev.json
+E:\My\Casos-\Casos\Casos\bin\Debug\netcoreapp3.1\Casos.dll
+E:\My\Casos-\Casos\Casos\bin\Debug\netcoreapp3.1\Casos.pdb
+E:\My\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.csprojAssemblyReference.cache
+E:\My\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.menu_frm.resources
+E:\My\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.csproj.GenerateResource.cache
+E:\My\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.AssemblyInfoInputs.cache
+E:\My\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.AssemblyInfo.cs
+E:\My\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.csproj.CoreCompileInputs.cache
+E:\My\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.dll
+E:\My\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.pdb
+E:\My\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.genruntimeconfig.cache
+E:\My\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.menu_frm - Copia.resources
+E:\My\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.deposito_frm.resources
+E:\My\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.retiro_frm.resources
+E:\23\Prueba\Casos-\Casos\Casos\bin\Debug\netcoreapp3.1\Casos.exe
+E:\23\Prueba\Casos-\Casos\Casos\bin\Debug\netcoreapp3.1\Casos.deps.json
+E:\23\Prueba\Casos-\Casos\Casos\bin\Debug\netcoreapp3.1\Casos.runtimeconfig.json
+E:\23\Prueba\Casos-\Casos\Casos\bin\Debug\netcoreapp3.1\Casos.runtimeconfig.dev.json
+E:\23\Prueba\Casos-\Casos\Casos\bin\Debug\netcoreapp3.1\Casos.dll
+E:\23\Prueba\Casos-\Casos\Casos\bin\Debug\netcoreapp3.1\Casos.pdb
+E:\23\Prueba\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.csprojAssemblyReference.cache
+E:\23\Prueba\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.deposito_frm.resources
+E:\23\Prueba\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.menu_frm - Copia.resources
+E:\23\Prueba\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.menu_frm.resources
+E:\23\Prueba\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.retiro_frm.resources
+E:\23\Prueba\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.csproj.GenerateResource.cache
+E:\23\Prueba\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.AssemblyInfoInputs.cache
+E:\23\Prueba\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.AssemblyInfo.cs
+E:\23\Prueba\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.csproj.CoreCompileInputs.cache
+E:\23\Prueba\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.dll
+E:\23\Prueba\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.pdb
+E:\23\Prueba\Casos-\Casos\Casos\obj\Debug\netcoreapp3.1\Casos.genruntimeconfig.cache
